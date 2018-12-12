@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# SendGrid キャンペーンメールハンズオン
 
-You can use the [editor on GitHub](https://github.com/SendGridJP/marketing-handson/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 注意事項
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+※ご自身のSendGridアカウントを既にお持ちの場合でも**受付で配布されたアカウント情報**をご使用ください
 
-### Markdown
+※ブラウザはGoogle ChromeまたはFirefoxの最新版をご利用ください（IE,Edge,Safariなどは対象外）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+※iPadなどのタブレットは使わないでください
 
-```markdown
-Syntax highlighted code block
+## ハンズオンで利用するもの
 
-# Header 1
-## Header 2
-### Header 3
+- [ログイン](https://app.sendgrid.com/login)
 
-- Bulleted
-- List
+- KKEのWebサイト [https://www.kke.co.jp/](https://www.kke.co.jp/)
 
-1. Numbered
-2. List
+- SendGridのWebサイト [https://sendgrid.kke.co.jp/](https://sendgrid.kke.co.jp/)
 
-**Bold** and _Italic_ and `Code` text
+配信停止とプリファレンスセンターのタグ
+- <%asm_group_unsubscribe_raw_url%>
+- <%asm_preferences_raw_url%>
 
-[Link](url) and ![Image](src)
-```
+- [Responsive Email Patterns](http://responsiveemailpatterns.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+CSVファイルダウンロード
+- [handson_sample1.csv](https://mchandson.blob.core.windows.net/mchandson/handson_sample1.csv)　（左のリンクでダウンロードできない方は[こちらから](https://1drv.ms/u/s!AioRWUgfQPSShUiQqDrpzfcx5qzm)）
+- [handson_sample2.csv](https://mchandson.blob.core.windows.net/mchandson/handson_sample2.csv)　（左のリンクでダウンロードできない方は[こちらから](https://1drv.ms/u/s!AioRWUgfQPSShUlJBxa92H7CPP7n)）
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SendGridJP/marketing-handson/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [templateで利用するサイト Open Source Email Templates(Sendwithus)](https://www.sendwithus.com/resources/templates)
