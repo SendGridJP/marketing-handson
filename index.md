@@ -20,7 +20,7 @@
 - <%asm_group_unsubscribe_raw_url%>
 - <%asm_preferences_raw_url%>
 
-- <a href="http://responsiveemailpatterns.com/" target="_blank">Responsive Email Patterns</a>
+- <a href="https://stripo.email/blog/add-video-email-stripo/" target="_blank">How to Add Video in Email with Stripo</a>
 
 CSVファイルダウンロード
 - [handson_sample1.csv](https://mchandson.blob.core.windows.net/mchandson/handson_sample1.csv)　（左のリンクでダウンロードできない方は[こちらから](https://1drv.ms/u/s!AioRWUgfQPSShUiQqDrpzfcx5qzm)）
